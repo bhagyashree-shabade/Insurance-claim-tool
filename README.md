@@ -1,4 +1,5 @@
 This is Assignment 1 which inlcudes below features:
+run application in main.py and use command python -m streamlit run main.py
 
 ## 🛠 Features
 
